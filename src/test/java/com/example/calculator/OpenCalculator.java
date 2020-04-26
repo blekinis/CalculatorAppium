@@ -58,5 +58,6 @@ public class OpenCalculator {
         clearButton.click();
         /*1. comment*/
         /*2. comment*/
+        /*3. comment*/
     }
 }
