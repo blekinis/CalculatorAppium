@@ -57,5 +57,6 @@ public class OpenCalculator {
         MobileElement clearButton = driver.findElement(By.xpath("//android.widget.Button[@content-desc=\"clear\"]"));
         clearButton.click();
         /*1. comment*/
+        /*2. comment*/
     }
 }
