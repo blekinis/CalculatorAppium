@@ -56,5 +56,8 @@ public class OpenCalculator {
         driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
         MobileElement clearButton = driver.findElement(By.xpath("//android.widget.Button[@content-desc=\"clear\"]"));
         clearButton.click();
+        /*1. comment*/
+        /*2. comment*/
+        /*3. comment*/
     }
 }
